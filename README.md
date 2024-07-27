@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hiagoaugustofcunha@gmail.com**
 
-- ⚡ Fun fact **I always want to learn new stuff**
+- ⚡ Fun fact **I use DWM and ArchLinux BTW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

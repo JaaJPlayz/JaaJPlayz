@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hiagoaugustofcunha@gmail.com**
 
-- ⚡ Fun fact **I use QTile and ArchLinux BTW**
+- ⚡ Fun fact **I use QTile and NixOS BTW**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hiagoaugustofcunha@gmail.com**
 
-- ⚡ Fun fact **I use QTile and NixOS BTW**
+- ⚡ Fun fact **I drink more coffee than I should 🧋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

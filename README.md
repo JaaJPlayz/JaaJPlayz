@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flask and Django**
+- 🌱 I’m currently learning **Next.js and Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaaJPlayz?tab=repositories](https://github.com/JaaJPlayz?tab=repositories)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hiagoaugustofcunha@gmail.com**
 
-- ⚡ Fun fact **I drink more coffee than I should 🧋**
+- ⚡ Fun fact **I like ricing my linux more than I should**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

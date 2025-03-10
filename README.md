@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hiago-augusto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiago (jaajplayz) augusto" height="30" width="40" /></a>
-<a href="https://fb.com/hiago augusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiago augusto" height="30" width="40" /></a>
+<a href="[https://fb.com/hiago augusto](https://www.facebook.com/hiago.augustofenandescunha)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiago augusto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/jaajplayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jaajplayz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hiago augusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hiago augusto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hiagoaugustofcunha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hiagoaugustofcunha" height="30" width="40" /></a>

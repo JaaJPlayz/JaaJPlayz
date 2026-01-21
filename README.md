@@ -66,7 +66,7 @@ I treat LLM output as a starting point — final implementations are reviewed, o
 - Design and implement **full-stack applications** end-to-end
 - Build **high-performance REST APIs**
 - Automate repetitive and complex workflows using **RPA**
-- Web scraping at scale with **headless browsers**
+- Web scraping using well known frameworks and tools
 - Write maintainable, testable, production-grade code
 - Integrate frontend and backend with clean contracts
 

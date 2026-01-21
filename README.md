@@ -81,17 +81,10 @@ I treat LLM output as a starting point — final implementations are reviewed, o
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN (optional)
+- GitHub: https://github.com/JaaJPlayz
+- LinkedIn: https://www.linkedin.com/in/hiago-augusto/
 
 ---
 
